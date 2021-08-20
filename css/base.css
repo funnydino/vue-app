@@ -1,0 +1,9 @@
+html,
+body {
+  height: 100%;
+}
+
+.header__wrapper,
+.footer__wrapper {
+  background-color: #272727;
+}
